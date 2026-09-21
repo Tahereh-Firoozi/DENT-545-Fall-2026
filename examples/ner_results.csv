@@ -1,0 +1,11 @@
+report_id,finding,concept,assertion,sites_in_report,procedures_in_report,start,end
+D01,mild epithelial dysplasia,epithelial dysplasia,affirmed,left lateral tongue,Biopsy,42,67
+D02,epithelial dysplasia,epithelial dysplasia,negated,right buccal mucosa,Biopsy,43,63
+D03,OED,epithelial dysplasia,affirmed,floor of mouth,Excision,37,40
+D04,epithelial dysplasia,epithelial dysplasia,uncertain,lower lip,Incisional biopsy,50,70
+D05,squamous cell carcinoma,squamous cell carcinoma,affirmed,hard palate,Biopsy,32,55
+D06,epithelial dysplasia,epithelial dysplasia,historical,left gingiva,Biopsy,39,59
+D06,hyperkeratosis,hyperkeratosis,affirmed,left gingiva,Biopsy,78,92
+D07,moderate epithelial dysplasia,epithelial dysplasia,affirmed,ventral tongue,Excisional biopsy,46,75
+D08,chronic inflammation,chronic inflammation,affirmed,soft palate,Biopsy,32,52
+D08,epithelial dysplasia,epithelial dysplasia,negated,soft palate,Biopsy,61,81

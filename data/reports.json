@@ -1,0 +1,1380 @@
+{
+  "train": [
+    {
+      "id": "T01",
+      "text": "Biopsy of the left lateral tongue shows mild epithelial dysplasia.",
+      "entities": [
+        {
+          "start": 0,
+          "end": 6,
+          "label": "PROCEDURE",
+          "text": "Biopsy"
+        },
+        {
+          "start": 14,
+          "end": 33,
+          "label": "SITE",
+          "text": "left lateral tongue"
+        },
+        {
+          "start": 40,
+          "end": 65,
+          "label": "FINDING",
+          "text": "mild epithelial dysplasia",
+          "assertion": "affirmed"
+        }
+      ]
+    },
+    {
+      "id": "T02",
+      "text": "Biopsy of the right buccal mucosa shows hyperkeratosis.",
+      "entities": [
+        {
+          "start": 0,
+          "end": 6,
+          "label": "PROCEDURE",
+          "text": "Biopsy"
+        },
+        {
+          "start": 14,
+          "end": 33,
+          "label": "SITE",
+          "text": "right buccal mucosa"
+        },
+        {
+          "start": 40,
+          "end": 54,
+          "label": "FINDING",
+          "text": "hyperkeratosis",
+          "assertion": "affirmed"
+        }
+      ]
+    },
+    {
+      "id": "T03",
+      "text": "Incisional biopsy of the floor of mouth shows moderate epithelial dysplasia.",
+      "entities": [
+        {
+          "start": 0,
+          "end": 17,
+          "label": "PROCEDURE",
+          "text": "Incisional biopsy"
+        },
+        {
+          "start": 25,
+          "end": 39,
+          "label": "SITE",
+          "text": "floor of mouth"
+        },
+        {
+          "start": 46,
+          "end": 75,
+          "label": "FINDING",
+          "text": "moderate epithelial dysplasia",
+          "assertion": "affirmed"
+        }
+      ]
+    },
+    {
+      "id": "T04",
+      "text": "Excision of the lower lip shows squamous cell carcinoma.",
+      "entities": [
+        {
+          "start": 0,
+          "end": 8,
+          "label": "PROCEDURE",
+          "text": "Excision"
+        },
+        {
+          "start": 16,
+          "end": 25,
+          "label": "SITE",
+          "text": "lower lip"
+        },
+        {
+          "start": 32,
+          "end": 55,
+          "label": "FINDING",
+          "text": "squamous cell carcinoma",
+          "assertion": "affirmed"
+        }
+      ]
+    },
+    {
+      "id": "T05",
+      "text": "Excisional biopsy of the hard palate shows fibroma.",
+      "entities": [
+        {
+          "start": 0,
+          "end": 17,
+          "label": "PROCEDURE",
+          "text": "Excisional biopsy"
+        },
+        {
+          "start": 25,
+          "end": 36,
+          "label": "SITE",
+          "text": "hard palate"
+        },
+        {
+          "start": 43,
+          "end": 50,
+          "label": "FINDING",
+          "text": "fibroma",
+          "assertion": "affirmed"
+        }
+      ]
+    },
+    {
+      "id": "T06",
+      "text": "Biopsy of the ventral tongue shows severe epithelial dysplasia.",
+      "entities": [
+        {
+          "start": 0,
+          "end": 6,
+          "label": "PROCEDURE",
+          "text": "Biopsy"
+        },
+        {
+          "start": 14,
+          "end": 28,
+          "label": "SITE",
+          "text": "ventral tongue"
+        },
+        {
+          "start": 35,
+          "end": 62,
+          "label": "FINDING",
+          "text": "severe epithelial dysplasia",
+          "assertion": "affirmed"
+        }
+      ]
+    },
+    {
+      "id": "T07",
+      "text": "Biopsy of the left gingiva shows chronic inflammation.",
+      "entities": [
+        {
+          "start": 0,
+          "end": 6,
+          "label": "PROCEDURE",
+          "text": "Biopsy"
+        },
+        {
+          "start": 14,
+          "end": 26,
+          "label": "SITE",
+          "text": "left gingiva"
+        },
+        {
+          "start": 33,
+          "end": 53,
+          "label": "FINDING",
+          "text": "chronic inflammation",
+          "assertion": "affirmed"
+        }
+      ]
+    },
+    {
+      "id": "T08",
+      "text": "Incisional biopsy of the soft palate shows epithelial dysplasia.",
+      "entities": [
+        {
+          "start": 0,
+          "end": 17,
+          "label": "PROCEDURE",
+          "text": "Incisional biopsy"
+        },
+        {
+          "start": 25,
+          "end": 36,
+          "label": "SITE",
+          "text": "soft palate"
+        },
+        {
+          "start": 43,
+          "end": 63,
+          "label": "FINDING",
+          "text": "epithelial dysplasia",
+          "assertion": "affirmed"
+        }
+      ]
+    },
+    {
+      "id": "T09",
+      "text": "Excision of the right lateral tongue shows OED.",
+      "entities": [
+        {
+          "start": 0,
+          "end": 8,
+          "label": "PROCEDURE",
+          "text": "Excision"
+        },
+        {
+          "start": 16,
+          "end": 36,
+          "label": "SITE",
+          "text": "right lateral tongue"
+        },
+        {
+          "start": 43,
+          "end": 46,
+          "label": "FINDING",
+          "text": "OED",
+          "assertion": "affirmed"
+        }
+      ]
+    },
+    {
+      "id": "T10",
+      "text": "Biopsy of the left buccal mucosa shows no epithelial dysplasia.",
+      "entities": [
+        {
+          "start": 0,
+          "end": 6,
+          "label": "PROCEDURE",
+          "text": "Biopsy"
+        },
+        {
+          "start": 14,
+          "end": 32,
+          "label": "SITE",
+          "text": "left buccal mucosa"
+        },
+        {
+          "start": 42,
+          "end": 62,
+          "label": "FINDING",
+          "text": "epithelial dysplasia",
+          "assertion": "negated"
+        }
+      ]
+    },
+    {
+      "id": "T11",
+      "text": "Excision of the upper lip shows no carcinoma.",
+      "entities": [
+        {
+          "start": 0,
+          "end": 8,
+          "label": "PROCEDURE",
+          "text": "Excision"
+        },
+        {
+          "start": 16,
+          "end": 25,
+          "label": "SITE",
+          "text": "upper lip"
+        },
+        {
+          "start": 35,
+          "end": 44,
+          "label": "FINDING",
+          "text": "carcinoma",
+          "assertion": "negated"
+        }
+      ]
+    },
+    {
+      "id": "T12",
+      "text": "Biopsy of the right gingiva shows possible epithelial dysplasia.",
+      "entities": [
+        {
+          "start": 0,
+          "end": 6,
+          "label": "PROCEDURE",
+          "text": "Biopsy"
+        },
+        {
+          "start": 14,
+          "end": 27,
+          "label": "SITE",
+          "text": "right gingiva"
+        },
+        {
+          "start": 43,
+          "end": 63,
+          "label": "FINDING",
+          "text": "epithelial dysplasia",
+          "assertion": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "T13",
+      "text": "Biopsy of the floor of mouth shows hyperkeratosis without epithelial dysplasia.",
+      "entities": [
+        {
+          "start": 0,
+          "end": 6,
+          "label": "PROCEDURE",
+          "text": "Biopsy"
+        },
+        {
+          "start": 14,
+          "end": 28,
+          "label": "SITE",
+          "text": "floor of mouth"
+        },
+        {
+          "start": 35,
+          "end": 49,
+          "label": "FINDING",
+          "text": "hyperkeratosis",
+          "assertion": "affirmed"
+        },
+        {
+          "start": 58,
+          "end": 78,
+          "label": "FINDING",
+          "text": "epithelial dysplasia",
+          "assertion": "negated"
+        }
+      ]
+    },
+    {
+      "id": "T14",
+      "text": "Incisional biopsy of the left lateral tongue: moderate epithelial dysplasia.",
+      "entities": [
+        {
+          "start": 0,
+          "end": 17,
+          "label": "PROCEDURE",
+          "text": "Incisional biopsy"
+        },
+        {
+          "start": 25,
+          "end": 44,
+          "label": "SITE",
+          "text": "left lateral tongue"
+        },
+        {
+          "start": 46,
+          "end": 75,
+          "label": "FINDING",
+          "text": "moderate epithelial dysplasia",
+          "assertion": "affirmed"
+        }
+      ]
+    },
+    {
+      "id": "T15",
+      "text": "Biopsy from the hard palate: chronic inflammation.",
+      "entities": [
+        {
+          "start": 0,
+          "end": 6,
+          "label": "PROCEDURE",
+          "text": "Biopsy"
+        },
+        {
+          "start": 16,
+          "end": 27,
+          "label": "SITE",
+          "text": "hard palate"
+        },
+        {
+          "start": 29,
+          "end": 49,
+          "label": "FINDING",
+          "text": "chronic inflammation",
+          "assertion": "affirmed"
+        }
+      ]
+    },
+    {
+      "id": "T16",
+      "text": "Excision from the ventral tongue: mild epithelial dysplasia.",
+      "entities": [
+        {
+          "start": 0,
+          "end": 8,
+          "label": "PROCEDURE",
+          "text": "Excision"
+        },
+        {
+          "start": 18,
+          "end": 32,
+          "label": "SITE",
+          "text": "ventral tongue"
+        },
+        {
+          "start": 34,
+          "end": 59,
+          "label": "FINDING",
+          "text": "mild epithelial dysplasia",
+          "assertion": "affirmed"
+        }
+      ]
+    },
+    {
+      "id": "T17",
+      "text": "Excisional biopsy from the lower lip: fibroma.",
+      "entities": [
+        {
+          "start": 0,
+          "end": 17,
+          "label": "PROCEDURE",
+          "text": "Excisional biopsy"
+        },
+        {
+          "start": 27,
+          "end": 36,
+          "label": "SITE",
+          "text": "lower lip"
+        },
+        {
+          "start": 38,
+          "end": 45,
+          "label": "FINDING",
+          "text": "fibroma",
+          "assertion": "affirmed"
+        }
+      ]
+    },
+    {
+      "id": "T18",
+      "text": "Biopsy from the right buccal mucosa: no carcinoma.",
+      "entities": [
+        {
+          "start": 0,
+          "end": 6,
+          "label": "PROCEDURE",
+          "text": "Biopsy"
+        },
+        {
+          "start": 16,
+          "end": 35,
+          "label": "SITE",
+          "text": "right buccal mucosa"
+        },
+        {
+          "start": 40,
+          "end": 49,
+          "label": "FINDING",
+          "text": "carcinoma",
+          "assertion": "negated"
+        }
+      ]
+    },
+    {
+      "id": "T19",
+      "text": "Biopsy from the soft palate: possible squamous cell carcinoma.",
+      "entities": [
+        {
+          "start": 0,
+          "end": 6,
+          "label": "PROCEDURE",
+          "text": "Biopsy"
+        },
+        {
+          "start": 16,
+          "end": 27,
+          "label": "SITE",
+          "text": "soft palate"
+        },
+        {
+          "start": 38,
+          "end": 61,
+          "label": "FINDING",
+          "text": "squamous cell carcinoma",
+          "assertion": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "T20",
+      "text": "Excision of the left gingiva. History of epithelial dysplasia. Current finding: hyperkeratosis.",
+      "entities": [
+        {
+          "start": 0,
+          "end": 8,
+          "label": "PROCEDURE",
+          "text": "Excision"
+        },
+        {
+          "start": 16,
+          "end": 28,
+          "label": "SITE",
+          "text": "left gingiva"
+        },
+        {
+          "start": 41,
+          "end": 61,
+          "label": "FINDING",
+          "text": "epithelial dysplasia",
+          "assertion": "historical"
+        },
+        {
+          "start": 80,
+          "end": 94,
+          "label": "FINDING",
+          "text": "hyperkeratosis",
+          "assertion": "affirmed"
+        }
+      ]
+    },
+    {
+      "id": "T21",
+      "text": "Biopsy of the right lateral tongue. Negative for epithelial dysplasia.",
+      "entities": [
+        {
+          "start": 0,
+          "end": 6,
+          "label": "PROCEDURE",
+          "text": "Biopsy"
+        },
+        {
+          "start": 14,
+          "end": 34,
+          "label": "SITE",
+          "text": "right lateral tongue"
+        },
+        {
+          "start": 49,
+          "end": 69,
+          "label": "FINDING",
+          "text": "epithelial dysplasia",
+          "assertion": "negated"
+        }
+      ]
+    },
+    {
+      "id": "T22",
+      "text": "Incisional biopsy of the left buccal mucosa. Cannot exclude mild epithelial dysplasia.",
+      "entities": [
+        {
+          "start": 0,
+          "end": 17,
+          "label": "PROCEDURE",
+          "text": "Incisional biopsy"
+        },
+        {
+          "start": 25,
+          "end": 43,
+          "label": "SITE",
+          "text": "left buccal mucosa"
+        },
+        {
+          "start": 60,
+          "end": 85,
+          "label": "FINDING",
+          "text": "mild epithelial dysplasia",
+          "assertion": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "T23",
+      "text": "Excision of the upper lip. Diagnosis: OED.",
+      "entities": [
+        {
+          "start": 0,
+          "end": 8,
+          "label": "PROCEDURE",
+          "text": "Excision"
+        },
+        {
+          "start": 16,
+          "end": 25,
+          "label": "SITE",
+          "text": "upper lip"
+        },
+        {
+          "start": 38,
+          "end": 41,
+          "label": "FINDING",
+          "text": "OED",
+          "assertion": "affirmed"
+        }
+      ]
+    },
+    {
+      "id": "T24",
+      "text": "Biopsy of the right gingiva. Diagnosis: fibroma.",
+      "entities": [
+        {
+          "start": 0,
+          "end": 6,
+          "label": "PROCEDURE",
+          "text": "Biopsy"
+        },
+        {
+          "start": 14,
+          "end": 27,
+          "label": "SITE",
+          "text": "right gingiva"
+        },
+        {
+          "start": 40,
+          "end": 47,
+          "label": "FINDING",
+          "text": "fibroma",
+          "assertion": "affirmed"
+        }
+      ]
+    }
+  ],
+  "dev": [
+    {
+      "id": "V01",
+      "text": "Excision of the right gingiva shows mild epithelial dysplasia.",
+      "entities": [
+        {
+          "start": 0,
+          "end": 8,
+          "label": "PROCEDURE",
+          "text": "Excision"
+        },
+        {
+          "start": 16,
+          "end": 29,
+          "label": "SITE",
+          "text": "right gingiva"
+        },
+        {
+          "start": 36,
+          "end": 61,
+          "label": "FINDING",
+          "text": "mild epithelial dysplasia",
+          "assertion": "affirmed"
+        }
+      ]
+    },
+    {
+      "id": "V02",
+      "text": "Incisional biopsy from the lower lip: no epithelial dysplasia.",
+      "entities": [
+        {
+          "start": 0,
+          "end": 17,
+          "label": "PROCEDURE",
+          "text": "Incisional biopsy"
+        },
+        {
+          "start": 27,
+          "end": 36,
+          "label": "SITE",
+          "text": "lower lip"
+        },
+        {
+          "start": 41,
+          "end": 61,
+          "label": "FINDING",
+          "text": "epithelial dysplasia",
+          "assertion": "negated"
+        }
+      ]
+    },
+    {
+      "id": "V03",
+      "text": "Biopsy of the posterior tongue shows hyperkeratosis.",
+      "entities": [
+        {
+          "start": 0,
+          "end": 6,
+          "label": "PROCEDURE",
+          "text": "Biopsy"
+        },
+        {
+          "start": 14,
+          "end": 30,
+          "label": "SITE",
+          "text": "posterior tongue"
+        },
+        {
+          "start": 37,
+          "end": 51,
+          "label": "FINDING",
+          "text": "hyperkeratosis",
+          "assertion": "affirmed"
+        }
+      ]
+    },
+    {
+      "id": "V04",
+      "text": "Excisional biopsy of the soft palate shows possible carcinoma.",
+      "entities": [
+        {
+          "start": 0,
+          "end": 17,
+          "label": "PROCEDURE",
+          "text": "Excisional biopsy"
+        },
+        {
+          "start": 25,
+          "end": 36,
+          "label": "SITE",
+          "text": "soft palate"
+        },
+        {
+          "start": 52,
+          "end": 61,
+          "label": "FINDING",
+          "text": "carcinoma",
+          "assertion": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "V05",
+      "text": "Biopsy of the upper lip. Diagnosis: OED.",
+      "entities": [
+        {
+          "start": 0,
+          "end": 6,
+          "label": "PROCEDURE",
+          "text": "Biopsy"
+        },
+        {
+          "start": 14,
+          "end": 23,
+          "label": "SITE",
+          "text": "upper lip"
+        },
+        {
+          "start": 36,
+          "end": 39,
+          "label": "FINDING",
+          "text": "OED",
+          "assertion": "affirmed"
+        }
+      ]
+    },
+    {
+      "id": "V06",
+      "text": "Biopsy of the left lateral tongue. History of carcinoma. Current finding: reactive atypia.",
+      "entities": [
+        {
+          "start": 0,
+          "end": 6,
+          "label": "PROCEDURE",
+          "text": "Biopsy"
+        },
+        {
+          "start": 14,
+          "end": 33,
+          "label": "SITE",
+          "text": "left lateral tongue"
+        },
+        {
+          "start": 46,
+          "end": 55,
+          "label": "FINDING",
+          "text": "carcinoma",
+          "assertion": "historical"
+        },
+        {
+          "start": 74,
+          "end": 89,
+          "label": "FINDING",
+          "text": "reactive atypia",
+          "assertion": "affirmed"
+        }
+      ]
+    }
+  ],
+  "test": [
+    {
+      "id": "E01",
+      "text": "Excisional biopsy from the floor of mouth: severe epithelial dysplasia.",
+      "entities": [
+        {
+          "start": 0,
+          "end": 17,
+          "label": "PROCEDURE",
+          "text": "Excisional biopsy"
+        },
+        {
+          "start": 27,
+          "end": 41,
+          "label": "SITE",
+          "text": "floor of mouth"
+        },
+        {
+          "start": 43,
+          "end": 70,
+          "label": "FINDING",
+          "text": "severe epithelial dysplasia",
+          "assertion": "affirmed"
+        }
+      ]
+    },
+    {
+      "id": "E02",
+      "text": "Excision of the hard palate shows no epithelial dysplasia.",
+      "entities": [
+        {
+          "start": 0,
+          "end": 8,
+          "label": "PROCEDURE",
+          "text": "Excision"
+        },
+        {
+          "start": 16,
+          "end": 27,
+          "label": "SITE",
+          "text": "hard palate"
+        },
+        {
+          "start": 37,
+          "end": 57,
+          "label": "FINDING",
+          "text": "epithelial dysplasia",
+          "assertion": "negated"
+        }
+      ]
+    },
+    {
+      "id": "E03",
+      "text": "Incisional biopsy of the right gingiva shows OED.",
+      "entities": [
+        {
+          "start": 0,
+          "end": 17,
+          "label": "PROCEDURE",
+          "text": "Incisional biopsy"
+        },
+        {
+          "start": 25,
+          "end": 38,
+          "label": "SITE",
+          "text": "right gingiva"
+        },
+        {
+          "start": 45,
+          "end": 48,
+          "label": "FINDING",
+          "text": "OED",
+          "assertion": "affirmed"
+        }
+      ]
+    },
+    {
+      "id": "E04",
+      "text": "Biopsy of the lower lip shows possible moderate epithelial dysplasia.",
+      "entities": [
+        {
+          "start": 0,
+          "end": 6,
+          "label": "PROCEDURE",
+          "text": "Biopsy"
+        },
+        {
+          "start": 14,
+          "end": 23,
+          "label": "SITE",
+          "text": "lower lip"
+        },
+        {
+          "start": 39,
+          "end": 68,
+          "label": "FINDING",
+          "text": "moderate epithelial dysplasia",
+          "assertion": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "E05",
+      "text": "Excision from the left buccal mucosa: squamous cell carcinoma.",
+      "entities": [
+        {
+          "start": 0,
+          "end": 8,
+          "label": "PROCEDURE",
+          "text": "Excision"
+        },
+        {
+          "start": 18,
+          "end": 36,
+          "label": "SITE",
+          "text": "left buccal mucosa"
+        },
+        {
+          "start": 38,
+          "end": 61,
+          "label": "FINDING",
+          "text": "squamous cell carcinoma",
+          "assertion": "affirmed"
+        }
+      ]
+    },
+    {
+      "id": "E06",
+      "text": "Biopsy of the posterior buccal mucosa shows hyperkeratosis.",
+      "entities": [
+        {
+          "start": 0,
+          "end": 6,
+          "label": "PROCEDURE",
+          "text": "Biopsy"
+        },
+        {
+          "start": 14,
+          "end": 37,
+          "label": "SITE",
+          "text": "posterior buccal mucosa"
+        },
+        {
+          "start": 44,
+          "end": 58,
+          "label": "FINDING",
+          "text": "hyperkeratosis",
+          "assertion": "affirmed"
+        }
+      ]
+    },
+    {
+      "id": "E07",
+      "text": "Incisional biopsy of the ventral tongue. Diagnosis: mild epithelial dysplasia.",
+      "entities": [
+        {
+          "start": 0,
+          "end": 17,
+          "label": "PROCEDURE",
+          "text": "Incisional biopsy"
+        },
+        {
+          "start": 25,
+          "end": 39,
+          "label": "SITE",
+          "text": "ventral tongue"
+        },
+        {
+          "start": 52,
+          "end": 77,
+          "label": "FINDING",
+          "text": "mild epithelial dysplasia",
+          "assertion": "affirmed"
+        }
+      ]
+    },
+    {
+      "id": "E08",
+      "text": "Biopsy of the retromolar pad shows lichenoid mucositis.",
+      "entities": [
+        {
+          "start": 0,
+          "end": 6,
+          "label": "PROCEDURE",
+          "text": "Biopsy"
+        },
+        {
+          "start": 14,
+          "end": 28,
+          "label": "SITE",
+          "text": "retromolar pad"
+        },
+        {
+          "start": 35,
+          "end": 54,
+          "label": "FINDING",
+          "text": "lichenoid mucositis",
+          "assertion": "affirmed"
+        }
+      ]
+    }
+  ],
+  "demo": [
+    {
+      "id": "D01",
+      "text": "Biopsy from the left lateral tongue shows mild epithelial dysplasia.",
+      "entities": [
+        {
+          "start": 0,
+          "end": 6,
+          "label": "PROCEDURE",
+          "text": "Biopsy"
+        },
+        {
+          "start": 16,
+          "end": 35,
+          "label": "SITE",
+          "text": "left lateral tongue"
+        },
+        {
+          "start": 42,
+          "end": 67,
+          "label": "FINDING",
+          "text": "mild epithelial dysplasia",
+          "assertion": "affirmed"
+        }
+      ]
+    },
+    {
+      "id": "D02",
+      "text": "Biopsy of the right buccal mucosa shows no epithelial dysplasia.",
+      "entities": [
+        {
+          "start": 0,
+          "end": 6,
+          "label": "PROCEDURE",
+          "text": "Biopsy"
+        },
+        {
+          "start": 14,
+          "end": 33,
+          "label": "SITE",
+          "text": "right buccal mucosa"
+        },
+        {
+          "start": 43,
+          "end": 63,
+          "label": "FINDING",
+          "text": "epithelial dysplasia",
+          "assertion": "negated"
+        }
+      ]
+    },
+    {
+      "id": "D03",
+      "text": "Excision of the floor of mouth shows OED.",
+      "entities": [
+        {
+          "start": 0,
+          "end": 8,
+          "label": "PROCEDURE",
+          "text": "Excision"
+        },
+        {
+          "start": 16,
+          "end": 30,
+          "label": "SITE",
+          "text": "floor of mouth"
+        },
+        {
+          "start": 37,
+          "end": 40,
+          "label": "FINDING",
+          "text": "OED",
+          "assertion": "affirmed"
+        }
+      ]
+    },
+    {
+      "id": "D04",
+      "text": "Incisional biopsy of the lower lip shows possible epithelial dysplasia.",
+      "entities": [
+        {
+          "start": 0,
+          "end": 17,
+          "label": "PROCEDURE",
+          "text": "Incisional biopsy"
+        },
+        {
+          "start": 25,
+          "end": 34,
+          "label": "SITE",
+          "text": "lower lip"
+        },
+        {
+          "start": 50,
+          "end": 70,
+          "label": "FINDING",
+          "text": "epithelial dysplasia",
+          "assertion": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "D05",
+      "text": "Biopsy of the hard palate shows squamous cell carcinoma.",
+      "entities": [
+        {
+          "start": 0,
+          "end": 6,
+          "label": "PROCEDURE",
+          "text": "Biopsy"
+        },
+        {
+          "start": 14,
+          "end": 25,
+          "label": "SITE",
+          "text": "hard palate"
+        },
+        {
+          "start": 32,
+          "end": 55,
+          "label": "FINDING",
+          "text": "squamous cell carcinoma",
+          "assertion": "affirmed"
+        }
+      ]
+    },
+    {
+      "id": "D06",
+      "text": "Biopsy of the left gingiva. History of epithelial dysplasia. Current finding: hyperkeratosis.",
+      "entities": [
+        {
+          "start": 0,
+          "end": 6,
+          "label": "PROCEDURE",
+          "text": "Biopsy"
+        },
+        {
+          "start": 14,
+          "end": 26,
+          "label": "SITE",
+          "text": "left gingiva"
+        },
+        {
+          "start": 39,
+          "end": 59,
+          "label": "FINDING",
+          "text": "epithelial dysplasia",
+          "assertion": "historical"
+        },
+        {
+          "start": 78,
+          "end": 92,
+          "label": "FINDING",
+          "text": "hyperkeratosis",
+          "assertion": "affirmed"
+        }
+      ]
+    },
+    {
+      "id": "D07",
+      "text": "Excisional biopsy of the ventral tongue shows moderate epithelial dysplasia.",
+      "entities": [
+        {
+          "start": 0,
+          "end": 17,
+          "label": "PROCEDURE",
+          "text": "Excisional biopsy"
+        },
+        {
+          "start": 25,
+          "end": 39,
+          "label": "SITE",
+          "text": "ventral tongue"
+        },
+        {
+          "start": 46,
+          "end": 75,
+          "label": "FINDING",
+          "text": "moderate epithelial dysplasia",
+          "assertion": "affirmed"
+        }
+      ]
+    },
+    {
+      "id": "D08",
+      "text": "Biopsy of the soft palate shows chronic inflammation without epithelial dysplasia.",
+      "entities": [
+        {
+          "start": 0,
+          "end": 6,
+          "label": "PROCEDURE",
+          "text": "Biopsy"
+        },
+        {
+          "start": 14,
+          "end": 25,
+          "label": "SITE",
+          "text": "soft palate"
+        },
+        {
+          "start": 32,
+          "end": 52,
+          "label": "FINDING",
+          "text": "chronic inflammation",
+          "assertion": "affirmed"
+        },
+        {
+          "start": 61,
+          "end": 81,
+          "label": "FINDING",
+          "text": "epithelial dysplasia",
+          "assertion": "negated"
+        }
+      ]
+    }
+  ],
+  "challenge": [
+    {
+      "id": "C01",
+      "text": "Biopsy of the lateral border of tongue shows oral epithelial dysplasia.",
+      "entities": [
+        {
+          "start": 0,
+          "end": 6,
+          "label": "PROCEDURE",
+          "text": "Biopsy"
+        },
+        {
+          "start": 14,
+          "end": 38,
+          "label": "SITE",
+          "text": "lateral border of tongue"
+        },
+        {
+          "start": 45,
+          "end": 70,
+          "label": "FINDING",
+          "text": "oral epithelial dysplasia",
+          "assertion": "affirmed"
+        }
+      ]
+    },
+    {
+      "id": "C02",
+      "text": "Biopsy of the lower lip: epithelial dysplasia is not identified.",
+      "entities": [
+        {
+          "start": 0,
+          "end": 6,
+          "label": "PROCEDURE",
+          "text": "Biopsy"
+        },
+        {
+          "start": 14,
+          "end": 23,
+          "label": "SITE",
+          "text": "lower lip"
+        },
+        {
+          "start": 25,
+          "end": 45,
+          "label": "FINDING",
+          "text": "epithelial dysplasia",
+          "assertion": "negated"
+        }
+      ]
+    },
+    {
+      "id": "C03",
+      "text": "Biopsy of the hard palate shows not only epithelial dysplasia but also chronic inflammation.",
+      "entities": [
+        {
+          "start": 0,
+          "end": 6,
+          "label": "PROCEDURE",
+          "text": "Biopsy"
+        },
+        {
+          "start": 14,
+          "end": 25,
+          "label": "SITE",
+          "text": "hard palate"
+        },
+        {
+          "start": 41,
+          "end": 61,
+          "label": "FINDING",
+          "text": "epithelial dysplasia",
+          "assertion": "affirmed"
+        },
+        {
+          "start": 71,
+          "end": 91,
+          "label": "FINDING",
+          "text": "chronic inflammation",
+          "assertion": "affirmed"
+        }
+      ]
+    },
+    {
+      "id": "C04",
+      "text": "Biopsy of the left lateral tongue shows mild epithelial dysplasia; biopsy of the right gingiva shows hyperkeratosis.",
+      "entities": [
+        {
+          "start": 0,
+          "end": 6,
+          "label": "PROCEDURE",
+          "text": "Biopsy"
+        },
+        {
+          "start": 14,
+          "end": 33,
+          "label": "SITE",
+          "text": "left lateral tongue"
+        },
+        {
+          "start": 40,
+          "end": 65,
+          "label": "FINDING",
+          "text": "mild epithelial dysplasia",
+          "assertion": "affirmed"
+        },
+        {
+          "start": 67,
+          "end": 73,
+          "label": "PROCEDURE",
+          "text": "biopsy"
+        },
+        {
+          "start": 81,
+          "end": 94,
+          "label": "SITE",
+          "text": "right gingiva"
+        },
+        {
+          "start": 101,
+          "end": 115,
+          "label": "FINDING",
+          "text": "hyperkeratosis",
+          "assertion": "affirmed"
+        }
+      ]
+    },
+    {
+      "id": "C05",
+      "text": "Biopsy of the left buccal mucosa: no carcinoma, but epithelial dysplasia is present.",
+      "entities": [
+        {
+          "start": 0,
+          "end": 6,
+          "label": "PROCEDURE",
+          "text": "Biopsy"
+        },
+        {
+          "start": 14,
+          "end": 32,
+          "label": "SITE",
+          "text": "left buccal mucosa"
+        },
+        {
+          "start": 37,
+          "end": 46,
+          "label": "FINDING",
+          "text": "carcinoma",
+          "assertion": "negated"
+        },
+        {
+          "start": 52,
+          "end": 72,
+          "label": "FINDING",
+          "text": "epithelial dysplasia",
+          "assertion": "affirmed"
+        }
+      ]
+    },
+    {
+      "id": "C06",
+      "text": "Punch biopsy of the upper labial mucosa shows verrucous hyperplasia.",
+      "entities": [
+        {
+          "start": 0,
+          "end": 12,
+          "label": "PROCEDURE",
+          "text": "Punch biopsy"
+        },
+        {
+          "start": 20,
+          "end": 39,
+          "label": "SITE",
+          "text": "upper labial mucosa"
+        },
+        {
+          "start": 46,
+          "end": 67,
+          "label": "FINDING",
+          "text": "verrucous hyperplasia",
+          "assertion": "affirmed"
+        }
+      ]
+    }
+  ]
+}
