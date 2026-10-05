@@ -2,6 +2,17 @@
 
 Practical natural language processing exercises for dentistry.
 
+## Naive Bayes: From dental notes to a trained model
+
+**Beginner activity · 25–35 minutes · no coding required · no submission**
+
+[Open the guided exercise in Colab](https://colab.research.google.com/github/Tahereh-Firoozi/DENT-545-Fall-2026/blob/main/notebooks/03_naive_bayes_pipeline.ipynb). Click the first cell’s play button, then use the activity’s buttons and dropdowns. If the embedded activity is unavailable, use the notebook’s download cell and open the HTML file in your browser.
+
+Students follow the instructor’s supplied smoking-history flowchart: collect → clean → annotate → split → train → test → apply → review. They label nine fictional notes, keep six training examples separate from three test examples, train an actual word-count Naive Bayes classifier, inspect precision/recall/F1, and explore a negation failure. The figure’s sample sizes and second classification step are explained; its final selected classifier is SVM, while this activity teaches a simplified Naive Bayes model.
+
+- [Standalone interactive HTML](activities/naive-bayes.html): download and open in a browser; works offline.
+- [Instructor notes](activities/naive-bayes-instructor.md): timing, expected answers and discussion prompts.
+
 ## Session 2: From dental reports to useful data
 
 **Hidden Markov Models and named entity recognition · September 21, 2026**
@@ -67,3 +78,4 @@ Edit `lab/ner_lab.py` or `lab/corpus.py`, then rebuild the notebook so the embed
 
 - Jurafsky & Martin, [Sequence labeling for parts of speech and named entities](https://web.stanford.edu/~jurafsky/slp3/old_aug24/17.pdf).
 - [Google Colab FAQ](https://research.google.com/colaboratory/faq.html).
+
